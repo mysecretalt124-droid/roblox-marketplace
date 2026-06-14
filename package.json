@@ -9,16 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^1^.0.0",
-    "react": "^2^.0.0",
-    "react-dom": "^2^.0.0",
-    "@vercel/kv": "^3^.0.0"
+    "next": "12.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "@vercel/kv": "0.1.1"
   },
   "devDependencies": {
-    "eslint": "^4^.0.0",
-    "eslint-config-next": "^1^.0.0",
-    "tailwindcss": "^5^.0.0",
-    "autoprefixer": "^6^.0.0",
-    "postcss": "^4^.0.0"
+    "eslint": "8.0.0",
+    "eslint-config-next": "12.0.0",
+    "tailwindcss": "^1^.0.0",
+    "autoprefixer": "^2^.0.0",
+    "postcss": "^3^.0.0"
   }
 }
